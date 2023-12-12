@@ -54,3 +54,8 @@ Installer.py must be written in the following format.
   # ↓ Enter the other functions...
 
 ```
+
+## Lisence
+It's MIT Lisence.
+
+Copyright (C) 2023 TechCat56
