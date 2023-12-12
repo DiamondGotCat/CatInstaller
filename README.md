@@ -6,7 +6,14 @@ CatInstaller is an installer that allows you to easily install something on your
 All you need is Python and the necessary modules.
 
 ## How to Use
-First, download Source Code from Relase tab, and Extract zip file.
+
+First, install "rich" and "requests" in "pip" command.
+
+```
+pip install rich requests
+```
+
+Next, download Source Code from Relase tab, and Extract zip file.
 
 Next, use cd (current directory) in the terminal (command prompt) to go to the extracted folder and execute the following command.
 
