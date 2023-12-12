@@ -3,6 +3,10 @@ CatInstaller is an installer that allows you to easily install something on your
 
 All you need is Python and the necessary modules.
 
+# How to Use
+Comming soon...
+
+
 ## How to support CatInstaller
 
 
