@@ -21,7 +21,8 @@ Next, use cd (current directory) in the terminal (command prompt) to go to the e
 python -m CatInstaller.Installer
 ```
 
-The input is as follows.
+Finally, specify the repository location of the project you want to install as follows:
+
 ```
 /DiamondGotCat/cat-installer-test/
 ```
