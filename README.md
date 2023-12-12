@@ -6,15 +6,13 @@ CatInstaller is an installer that allows you to easily install something on your
 All you need is Python and the necessary modules.
 
 ## How to Use
-First, install CatInstaller using PIP by running the command below.
+First, download Source Code from Relase tab, and Extract zip file.
+
+Next, use cd (current directory) in the terminal (command prompt) to go to the extracted folder and execute the following command.
+
 ```
-pip install CatInstaller
+python -m CatInstaller.Installer
 ```
-Next, run the command below to start CatInstaller.
-```
-python -m CatInstaller.CatInstaller
-```
-Finally, enter the location of your repository in GitHub and press enter.
 
 The input is as follows.
 ```
