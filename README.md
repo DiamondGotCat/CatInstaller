@@ -1,3 +1,5 @@
+![Icon](CatInstaller.png)
+
 # CatInstaller
 CatInstaller is an installer that allows you to easily install something on your OS.
 
